@@ -10,10 +10,4 @@ This tiny project is open source for everyone to enjoy and make their life easie
 
 If you find this project helpful, please give it a star 😊.
 
-I made it quickly just to be able to do those calculations in a glance. feel free to pull request any improvments to it :)
-
-This project was created as a way for me to calculate my grade.
-
-If you have ideas for improvements, feel free to open a pull request 🙌
-
-
+I made it quickly with chat gpt just to be able to do those calculations in a glance. feel free to pull request any improvments to it :)
